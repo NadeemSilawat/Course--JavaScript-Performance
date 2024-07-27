@@ -7,6 +7,8 @@ Thanks for taking the [JavaScript Performance](https://frontendmasters.com/cours
 
 Note: This course was formerly titled "Website Performance", but the course ended up being more tightly focused on making your JavaScript faster.
 
+Git Reposetory : - [Web Performance](https://github.com/stevekinney/web-performance)
+
 ## Installation
 
 Run either `yarn install` or `npm install`.
